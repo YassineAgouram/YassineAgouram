@@ -49,7 +49,7 @@
 
 ###  Backend / Apps
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=django,fastapi,nodejs,flask,react&perline=12" height="40" />
+  <img src="https://skillicons.dev/icons?i=php,django,fastapi,nodejs,flask,react&perline=12" height="40" />
 </p>
 
 ### ☁️ Cloud Platforms
