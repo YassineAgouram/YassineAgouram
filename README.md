@@ -17,9 +17,9 @@
     <img src="https://skillicons.dev/icons?i=gmail" height="32" alt="Email"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/your-github" target="_blank" title="GitHub">
-    <img src="https://skillicons.dev/icons?i=github" height="32" alt="GitHub"/>
-  </a>
+  <a href="https://gitlab.com/your-gitlab" target="_blank" title="GitLab">
+  <img src="https://skillicons.dev/icons?i=gitlab" height="32" alt="GitLab"/>
+</a>
   &nbsp;&nbsp;
   <a href="https://leetcode.com/u/Tarik_El_Oukili/" target="_blank" title="LeetCode">
     <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/32/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" height="32" width="32" alt="LeetCode"/>
