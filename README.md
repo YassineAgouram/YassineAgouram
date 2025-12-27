@@ -1,7 +1,7 @@
 <!-- Profile README — @YassineINPT -->
 
 <!-- ======= Banner ======= -->
-<h1 align="center"> Salamo Alaykom, I'm Yassine</h1>
+<h1 align="center"> Salamo Alaykom, I'm Yassine AGOURAM</h1>
 <h3 align="center">Cloud & DevOps Engineering Student @ INPT (Rabat, Morocco)</h3>
 
 ---
