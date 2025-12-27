@@ -1,1 +1,80 @@
-# Yassine-AGOURAM
+<!-- Profile README — @YassineINPT -->
+
+<!-- ======= Banner ======= -->
+<h1 align="center"> Salamo Alaykom, I'm Yassine</h1>
+<h3 align="center">Cloud & DevOps Engineering Student @ INPT (Rabat, Morocco)</h3>
+
+---
+
+## 🤝 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank" title="LinkedIn">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="32" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:your.email@outlook.com" target="_blank" title="Email">
+    <img src="https://skillicons.dev/icons?i=gmail" height="32" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/your-github" target="_blank" title="GitHub">
+    <img src="https://skillicons.dev/icons?i=github" height="32" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/Tarik_El_Oukili/" target="_blank" title="LeetCode">
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/32/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" height="32" width="32" alt="LeetCode"/>
+  </a>
+</p>
+
+---
+
+## 🚀 About Me
+- 🎓 **Cloud & DevOps Engineering student** at **INPT** (Rabat, Morocco)  
+- ☁️ Passionate about **Cloud Computing, DevOps, Site Reliability Engineering (SRE)**  
+- 🛠️ Strong interest in **CI/CD pipelines, containerization, orchestration, and automation**  
+- 📦 Experienced with **Docker, Kubernetes, GitOps, Infrastructure as Code (IaC)**  
+- 🔐 Interested in **Cloud Security, Monitoring, and High Availability Architectures**  
+- 🤝 Open to **internships, DevOps projects, and cloud-native collaborations**
+
+---
+
+## 🧰 Tech Stack
+
+### 🧑‍💻 Programming & Scripting
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,go,java,bash,js&perline=12" height="40" /> </p>
+
+### ☁️ Cloud Platforms
+<p align="center"> <img src="https://skillicons.dev/icons?i=aws,azure,gcp,openstack&perline=12" height="40" /> </p>
+
+### ⚙️ DevOps & CI/CD
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,gitlab,githubactions,argo&perline=12" height="40" />
+</p>
+
+### 🏗️ Infrastructure as Code & Automation
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=terraform,ansible&perline=12" height="40" />
+</p>
+
+### 🗄️ Databases & Messaging
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka&perline=12" height="40" />
+</p>
+
+### 🖥️ Systems & Monitoring
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,prometheus,grafana&perline=12" height="40" />
+</p>
+
+🔐 DevSecOps & Security
+
+<p align="center"> <img src="https://skillicons.dev/icons?i=sonarqube,snyk,git,vault&perline=12" height="40" /> <img src="https://raw.githubusercontent.com/aquasecurity/trivy/main/docs/imgs/logo.png" height="40" alt="Trivy" /> <img src="https://owasp.org/assets/images/logo.png" height="40" alt="OWASP ZAP" /> <img src="https://raw.githubusercontent.com/falcosecurity/falco/master/docs/images/falco-logo.png" height="40" alt="Falco" /> </p>
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=false" height="170" />
+</p>
+
+---
