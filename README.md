@@ -75,7 +75,7 @@
 
 ### 🔐 DevSecOps & Security
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=sonarqube,snyk,vault&perline=12" height="40" alt="SonarQube Snyk Vault"/> <img src="https://raw.githubusercontent.com/aquasecurity/trivy/main/docs/imgs/logo.png" height="40" alt="Trivy"/> <img src="https://owasp.org/assets/images/logo.png" height="40" alt="OWASP ZAP"/>  </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=wazuh,sonarqube,snyk,vault&perline=12" height="40" alt="SonarQube Snyk Vault"/> <img src="https://raw.githubusercontent.com/aquasecurity/trivy/main/docs/imgs/logo.png" height="40" alt="Trivy"/> <img src="https://owasp.org/assets/images/logo.png" height="40" alt="OWASP ZAP"/>  </p>
 
 ## 📊 GitHub Stats
 <p align="center">
