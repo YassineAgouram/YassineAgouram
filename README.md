@@ -78,9 +78,10 @@
 <p align="center"> <img src="https://skillicons.dev/icons?i=wazuh,sonarqube,snyk,vault&perline=12" height="40" alt="SonarQube Snyk Vault"/> <img src="https://raw.githubusercontent.com/aquasecurity/trivy/main/docs/imgs/logo.png" height="40" alt="Trivy"/> <img src="https://owasp.org/assets/images/logo.png" height="40" alt="OWASP ZAP"/>  </p>
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=false" height="170" />
-</p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=YassineAgouram&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true" alt="Top Langs" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=YassineAgouram&show_icons=true&locale=en&theme=vue&hide_border=true" alt="GitHub Stats" /></p>
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 ---
