@@ -86,3 +86,4 @@
   </a>
 </p>
 
+<img src="https://github.com/YassineAgouram/YassineAgouram/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
